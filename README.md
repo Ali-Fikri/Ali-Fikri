@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right"  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
 
 
 - 📫 How to reach me **ali.fikri.allaithie@gmail.com**
