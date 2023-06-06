@@ -84,4 +84,4 @@
 ![](https://komarev.com/ghpvc/?username=Ali-Fikri)
 
 
-<a href="https://github.com/Ali-Fikri?tab=followers"><img src="https://img.shields.io/github/followers/abdelrhman-ahmed-kamal?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ali-Fikri?tab=followers"><img src="https://img.shields.io/github/followers/Ali-Fikri?label=Followers&style=social" alt="GitHub Badge"></a>
