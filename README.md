@@ -71,7 +71,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/abdelrhman-ahmed-kamal-203026233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ali-fikri-al-laithie/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
@@ -84,4 +84,4 @@
 ![](https://komarev.com/ghpvc/?username=abdelrhman-ahmed-kamal)
 
 
-<a href="https://github.com/abdelrhman-ahmed-kamal?tab=followers"><img src="https://img.shields.io/github/followers/abdelrhman-ahmed-kamal?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ali-Fikri?tab=followers"><img src="https://img.shields.io/github/followers/abdelrhman-ahmed-kamal?label=Followers&style=social" alt="GitHub Badge"></a>
