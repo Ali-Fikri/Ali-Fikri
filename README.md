@@ -48,9 +48,8 @@
 
 ## 📊 My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Fikri)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Fikri&show_icons=true&locale=en" alt="ali-fikri" /></p>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-Fikri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Fikri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <p align="center">
     <a href="https://github.com/Ali-Fikri/github-readme-streak-stats">
