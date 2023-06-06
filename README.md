@@ -5,11 +5,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22"></a>
 </p> 
 
-<img height="250" width="375" align="right"  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
+
 
 ## 🙋‍♂️ About Me
 
-
+<img height="250" width="375" align="right"  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
 
 
 - 📫 How to reach me **ali.fikri.allaithie@gmail.com**
@@ -50,7 +50,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Fikri)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ali-Fikri&show_icons=true&locale=en" alt="ali-fikri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Fikri&show_icons=true&locale=en" alt="ali-fikri" /></p>
 
 <p align="center">
     <a href="https://github.com/Ali-Fikri/github-readme-streak-stats">
