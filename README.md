@@ -51,11 +51,6 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-Fikri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Fikri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-<p align="center">
-    <a href="https://github.com/Ali-Fikri/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali Fikri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Fikri&theme=default&hide_border=false&"/>
-    </a>
-</p>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
