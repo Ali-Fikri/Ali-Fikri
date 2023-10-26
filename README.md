@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ali.fikri.allaithie@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ali-fikri.vercel.app)**
 
 - 🔭 I’m currently working on **[My Portfolio]()**
 
